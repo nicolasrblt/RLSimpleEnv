@@ -1,0 +1,65 @@
+{
+    "PushInBehaviour": {
+        "checkpoints": [
+            {
+                "steps": 2499982,
+                "file_path": "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-2499982.onnx",
+                "reward": null,
+                "creation_time": 1683099772.1733882,
+                "auxillary_file_paths": [
+                    "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-2499982.pt"
+                ]
+            },
+            {
+                "steps": 2999998,
+                "file_path": "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-2999998.onnx",
+                "reward": 10.021751165390015,
+                "creation_time": 1683100686.3240595,
+                "auxillary_file_paths": [
+                    "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-2999998.pt"
+                ]
+            },
+            {
+                "steps": 3499984,
+                "file_path": "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-3499984.onnx",
+                "reward": 19.458477020263672,
+                "creation_time": 1683101611.5526903,
+                "auxillary_file_paths": [
+                    "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-3499984.pt"
+                ]
+            },
+            {
+                "steps": 3999950,
+                "file_path": "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-3999950.onnx",
+                "reward": 1.86971116065979,
+                "creation_time": 1683102555.9529867,
+                "auxillary_file_paths": [
+                    "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-3999950.pt"
+                ]
+            },
+            {
+                "steps": 4000078,
+                "file_path": "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-4000078.onnx",
+                "reward": 1.86971116065979,
+                "creation_time": 1683102555.9912636,
+                "auxillary_file_paths": [
+                    "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-4000078.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000078,
+            "file_path": "results/PushInBehaviour/PushInBehaviour.onnx",
+            "reward": 1.86971116065979,
+            "creation_time": 1683102555.9912636,
+            "auxillary_file_paths": [
+                "results/PushInBehaviour/PushInBehaviour/PushInBehaviour-4000078.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.1+cu102"
+    }
+}
